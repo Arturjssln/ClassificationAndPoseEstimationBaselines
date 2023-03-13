@@ -1,0 +1,9 @@
+Output dim 126
+=> using pre-trained model 'resnet50'
+Using GPU 0
+==> initializing pascal3d Star train data.
+Loaded Pascal3D train 8508 samples
+Drop LR to 0.001
+Drop LR to 0.00010000000000000002
+Drop LR to 1.0000000000000003e-05
+Drop LR to 1.0000000000000002e-06
